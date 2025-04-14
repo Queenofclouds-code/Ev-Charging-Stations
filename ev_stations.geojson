@@ -1,0 +1,2505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.05439,
+                    21.088568
+                ]
+            },
+            "properties": {
+                "station_name": "Ola Charging Point",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Business Owner at Location)",
+                "address": "Wardha Road",
+                "city": "Nagpur",
+                "state": "Maharashtra",
+                "postcode": "440001",
+                "country": "India",
+                "connection_type": "CHAdeMO",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.37811,
+                    17.50128
+                ]
+            },
+            "properties": {
+                "station_name": "Fortum Mahindra ",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Unknown Operator)",
+                "address": "Hyder Nagar, RamNaresh Nagar",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500090",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.42225,
+                    17.79618
+                ]
+            },
+            "properties": {
+                "station_name": "Vintage Retreat Resort",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "SH 15 Bidar Mannakheli Highway ",
+                "city": "Chatnalli",
+                "state": "Karnataka ",
+                "postcode": "585226",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.46395,
+                    17.44366
+                ]
+            },
+            "properties": {
+                "station_name": "Fortum Mahindra",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Unknown Operator)",
+                "address": "Chikoti Gardens, Old Patigadda, Chikoti Gardens, Begumpet, Hyderabad, Telangana 500016, India",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500016",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.421966,
+                    17.424924
+                ]
+            },
+            "properties": {
+                "station_name": "Amplify Mobility",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Unknown Operator)",
+                "address": "8-2, 335/2, Rd Number 5, SBI Executive Enclave, Green Valley, Banjara Hills.",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500034",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.426597,
+                    17.413362
+                ]
+            },
+            "properties": {
+                "station_name": "Tellus Power ",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": null,
+                "address": "Gamut De Lousa ",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500034",
+                "country": "India",
+                "connection_type": "Type 1 (J1772)",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.3347,
+                    17.7392
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel 24",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH - 65, near Mangalgi tollgate",
+                "city": "Mannaekhelli",
+                "state": "Karnataka ",
+                "postcode": "585227",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4337,
+                    17.36334
+                ]
+            },
+            "properties": {
+                "station_name": "Fortum Mahindra ",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Unknown Operator)",
+                "address": "Unnamed Road, Maruthi Nagar, Attapur.",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500264",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.11402,
+                    17.7726
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel BHP-6",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "Opp Noor Dhaba, PYC Road, NH - 65",
+                "city": "Humnabad",
+                "state": "Karnataka",
+                "postcode": "585330",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.90048,
+                    17.8286
+                ]
+            },
+            "properties": {
+                "station_name": "Punjabi Dhami Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH - 65, Mumbai Highway",
+                "city": "Sastapur",
+                "state": "Karnataka",
+                "postcode": "585327",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.854964,
+                    22.716554
+                ]
+            },
+            "properties": {
+                "station_name": "Jawahar Marg",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Jawahar Marg",
+                "city": "Indore",
+                "state": "Madhya Pradesh",
+                "postcode": "452001",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.561178,
+                    17
+                ]
+            },
+            "properties": {
+                "station_name": "Anand Nagar, Hyderabad",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "near Kamineni Hospitals",
+                "city": "Hyderabad",
+                "state": "Telangana",
+                "postcode": "500074",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8678,
+                    17.32725
+                ]
+            },
+            "properties": {
+                "station_name": "Aashirwaad Mangal Karyalay",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "66, 2nd Cross, G D A Layout 1st Block",
+                "city": "Kalaburagi",
+                "state": "Karnataka ",
+                "postcode": "585105",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.874074,
+                    17.274606
+                ]
+            },
+            "properties": {
+                "station_name": "Sri Nisty Pvt",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Nandoor K",
+                "city": "Kalaburgi",
+                "state": "Karnataka",
+                "postcode": "585102",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.130118,
+                    16.749471
+                ]
+            },
+            "properties": {
+                "station_name": "SLV Hotel & Family Restaurant",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Chittapur Road",
+                "city": "Yadgir",
+                "state": "Karnataka",
+                "postcode": "585201",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.723431,
+                    19.051819
+                ]
+            },
+            "properties": {
+                "station_name": "Indira Nagar",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Neare Suraj Hotel",
+                "city": "Ahmednagar",
+                "state": "Mahrashtra",
+                "postcode": "414001",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.26145,
+                    16.93447
+                ]
+            },
+            "properties": {
+                "station_name": "New Sangeeta Gardens Family Restaurant",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH - 50, Vijayapura - Gulbarga Roa",
+                "city": "Sindgi Rural",
+                "state": "Karnataka",
+                "postcode": "586128",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.79103,
+                    17.15414
+                ]
+            },
+            "properties": {
+                "station_name": "Ashoka Village Resort",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH - 52, Halagunaki Cross ",
+                "city": "Sonakanahalli",
+                "state": "Karnataka ",
+                "postcode": "586104",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.352467,
+                    16.208165
+                ]
+            },
+            "properties": {
+                "station_name": "Pearl EV Fast charger",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "12/10-97-91, Ward 31",
+                "city": "Raichur",
+                "state": "Karnataka",
+                "postcode": "584101",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.734976,
+                    16.849168
+                ]
+            },
+            "properties": {
+                "station_name": "Bijjargi Motors",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "NH - 50, Bye Pass, ",
+                "city": "Vijayapura",
+                "state": "Karnataka ",
+                "postcode": "586104",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.7416,
+                    16.81325
+                ]
+            },
+            "properties": {
+                "station_name": "S-Hyper Mart",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "NH - 50, Vijayapur - Sindagi Road",
+                "city": "Vijayapura",
+                "state": "Karnataka ",
+                "postcode": "586103",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.42351,
+                    15.94075
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Abode",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Joulepoint (IN)",
+                "address": "Mantralayam",
+                "city": "Mantralayam",
+                "state": "Andhra Pradesh",
+                "postcode": "518345",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.805005,
+                    16.664507
+                ]
+            },
+            "properties": {
+                "station_name": "Tourist Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "Zero Point Managuli, NH - 50",
+                "city": "Managuli",
+                "state": "Karnataka ",
+                "postcode": "586122",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.46571,
+                    15.7612
+                ]
+            },
+            "properties": {
+                "station_name": "USHA KIRAN SERVICE STATION",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "1/2854-1-1, Adoni-Yemmiganur-Mantralaya Road",
+                "city": "Yemmiganur",
+                "state": "Andhra Pradesh",
+                "postcode": "518360",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.065771,
+                    16.053005
+                ]
+            },
+            "properties": {
+                "station_name": "MR Residency",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "M R Residency, Near APMC Bypass ",
+                "city": "Hungund",
+                "state": "Karnataka",
+                "postcode": "587118",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.960178,
+                    18.157327
+                ]
+            },
+            "properties": {
+                "station_name": "Vijaya Power Charging Station 60 + 60 kW",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Vijaya Power (IN)",
+                "address": "Shirwal ",
+                "city": "Shirwal",
+                "state": "Maharashtra ",
+                "postcode": "412801",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.10002,
+                    15.99107
+                ]
+            },
+            "properties": {
+                "station_name": "Jio BP Mobility Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Truck Stop, No 69/3 Hungund, NH - 50",
+                "city": "Ilkal",
+                "state": "Karnataka ",
+                "postcode": "587125",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.853272,
+                    18.272046
+                ]
+            },
+            "properties": {
+                "station_name": "Vikaya Power Solutions ",
+                "status": "Operational",
+                "usage_type": "Public - Membership Required",
+                "operator": "(Unknown Operator)",
+                "address": "Shirwal",
+                "city": "Shirwal",
+                "state": "Maharashtra ",
+                "postcode": "412801",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.881763,
+                    25.160057
+                ]
+            },
+            "properties": {
+                "station_name": "Xobolt Charging Station",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "Xobolt (IN)",
+                "address": "Located in Radhika Marriage Garden & Amusement Park",
+                "city": "Thegda",
+                "state": "Rajasthan ",
+                "postcode": "325201",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.63617,
+                    16.18182
+                ]
+            },
+            "properties": {
+                "station_name": "BPCL Bagalkote",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Murnala Village",
+                "city": "Bagalkote",
+                "state": "Karnataka",
+                "postcode": "587102",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.220211,
+                    15.638844
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Poorvi",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH - 50",
+                "city": "Uppaldinni",
+                "state": "Karnataka",
+                "postcode": "583237",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.696859,
+                    24.59119
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Raj Palace",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Marjivi choraya, Nimbahera Bypass, NH79",
+                "city": "Nimbahera",
+                "state": "Rajasthan ",
+                "postcode": "312601",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.134756,
+                    19.243652
+                ]
+            },
+            "properties": {
+                "station_name": "Cinemax",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Tycoons Residency",
+                "city": "Kalyan",
+                "state": "Maharashtra",
+                "postcode": "421301",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.324367,
+                    25.14772
+                ]
+            },
+            "properties": {
+                "station_name": "Statiq Charging Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "Shree Jee food square, NH 27",
+                "city": "Bijolia",
+                "state": "Rajasthan ",
+                "postcode": "311602",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0632,
+                    15.14327
+                ]
+            },
+            "properties": {
+                "station_name": "Jio-BP Mobility Station PD Halli",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Sy No.44(P), NH - 67",
+                "city": "Hagari",
+                "state": "Karnataka",
+                "postcode": "583111",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.828744,
+                    21.190833
+                ]
+            },
+            "properties": {
+                "station_name": "Kot Safil road",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "Gopi Talav",
+                "city": "Surat",
+                "state": "Gujarat",
+                "postcode": "395002",
+                "country": "India",
+                "connection_type": "Type 2 (Socket Only)",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97093,
+                    15.14016
+                ]
+            },
+            "properties": {
+                "station_name": "Mahindra Bellary Motors",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH 63, Bellary - Uravakonda - Anantapur Road",
+                "city": "Ballari",
+                "state": "Karnataka",
+                "postcode": "583101",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.86862,
+                    15.1624
+                ]
+            },
+            "properties": {
+                "station_name": "Bellad Enterprises Pvt Ltd",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Hosapete Road",
+                "city": "Ballari",
+                "state": "Karnataka",
+                "postcode": "583102",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.38577,
+                    15.28683
+                ]
+            },
+            "properties": {
+                "station_name": "Royal Orchid Central Kireeti",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Station Road",
+                "city": "Hosapete",
+                "state": "Karnataka ",
+                "postcode": "583201",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.278181,
+                    16.782334
+                ]
+            },
+            "properties": {
+                "station_name": "Vijata Power Charging Station 60 kW ",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Vijaya Power (IN)",
+                "address": "Shiye Phata ",
+                "city": "Toap ",
+                "state": "Maharashtra ",
+                "postcode": "416114",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.569742,
+                    24.834306
+                ]
+            },
+            "properties": {
+                "station_name": "Chitrakoot Resorts and Restaurant",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Diamond Circle NH 76-79, Udaipur Road Village-Rithola",
+                "city": "Chittorgarh",
+                "state": "Rajasthan ",
+                "postcode": "312001",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.926011,
+                    19.095796
+                ]
+            },
+            "properties": {
+                "station_name": "Tata Power Receiving Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Business Owner at Location)",
+                "address": "3, Vikhroli Village Road",
+                "city": "Mumbai",
+                "state": null,
+                "postcode": "400077",
+                "country": "India",
+                "connection_type": "Type 1 (J1772)",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.250457,
+                    16.703369
+                ]
+            },
+            "properties": {
+                "station_name": "Vijaya Power Charging Station 60 Kw + 30 Kw",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Vijaya Power (IN)",
+                "address": "Dyp City Mall ",
+                "city": "Kolhapur ",
+                "state": "Maharashtra ",
+                "postcode": "416003",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.853444,
+                    19.140006
+                ]
+            },
+            "properties": {
+                "station_name": "Mira Road ",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "A/1104, unique heights, Poonam Garden, above new india co-op bank, near S K Stone, Mira Bhayender Rd, near S K Stone",
+                "city": "Maharashtra",
+                "state": "India",
+                "postcode": "401107",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.851974,
+                    19.139951
+                ]
+            },
+            "properties": {
+                "station_name": "Balasaheb Thackeray Flyover",
+                "status": "Operational",
+                "usage_type": "Public - Membership Required",
+                "operator": "(Unknown Operator)",
+                "address": "Balasaheb Thackeray Flyover",
+                "city": null,
+                "state": "Maharashtra",
+                "postcode": "400029",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": null,
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.82927,
+                    19.1166
+                ]
+            },
+            "properties": {
+                "station_name": "Andheri West",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Four Bunglows",
+                "city": "Mumbai",
+                "state": "Maharashtra",
+                "postcode": "400057",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.01014,
+                    15.9663
+                ]
+            },
+            "properties": {
+                "station_name": "HR Motel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "SH 20 Belagavi, Bagalkote - Belagavi Rd",
+                "city": "Yaragatti",
+                "state": "Karnataka ",
+                "postcode": "591129",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.568555,
+                    23.9319
+                ]
+            },
+            "properties": {
+                "station_name": "NEEL-GAGAN PUNJABI DHABA",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH 48, ",
+                "city": "Shishod",
+                "state": "Rajasthan ",
+                "postcode": "314804",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.581657,
+                    23.959043
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Atithi Palace",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH8, Chagan Colony, Motli Circle, Kherwara Chhaoni",
+                "city": "Badla",
+                "state": "Rajasthan ",
+                "postcode": "314011",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.072816,
+                    24.61225
+                ]
+            },
+            "properties": {
+                "station_name": "Tata Power Charging Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "J36G+QXQ, Menar",
+                "city": "Vallabhnagar",
+                "state": "Rajasthan ",
+                "postcode": "313601",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.316787,
+                    23.654372
+                ]
+            },
+            "properties": {
+                "station_name": "MobiLane Charging Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": null,
+                "address": "Hotel Asopalav Shamalaji",
+                "city": "Samalaji",
+                "state": "Gujarat",
+                "postcode": "383355",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.623213,
+                    25.152314
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Green Plaza",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH79, Bhilwara Chittar",
+                "city": "Hamirgarh",
+                "state": "Rajasthan ",
+                "postcode": "311025",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.518,
+                    16.19321
+                ]
+            },
+            "properties": {
+                "station_name": "Jio-BP Petrol Pump",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Survey No 305 & 314 Hukkeri, NH 48, near Belgaum Truck Stop",
+                "city": "Chikkalagudda",
+                "state": "Karnataka ",
+                "postcode": "591314",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.768708,
+                    24.594579
+                ]
+            },
+            "properties": {
+                "station_name": "Statiq Charging Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "Plot no. 10, Valley View, Airport Rd, near Transport Nagar, Pratap Nagar",
+                "city": "Udaipur",
+                "state": "Rajasthan ",
+                "postcode": "313003",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.656474,
+                    24.49439
+                ]
+            },
+            "properties": {
+                "station_name": "Ramee Royal Resort & Spa",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Near IIM, Balicha,Udaipur - Ahmedabad Highway,NH 8",
+                "city": "Udaipur",
+                "state": "Rajasthan ",
+                "postcode": "313002",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.532332,
+                    15.92777
+                ]
+            },
+            "properties": {
+                "station_name": "ITC Welcome Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Kakati",
+                "city": "Belagavi",
+                "state": "Karnataka ",
+                "postcode": "591113",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.529038,
+                    15.928451
+                ]
+            },
+            "properties": {
+                "station_name": "Gogte Plaza",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "The Irish House Gogte Plaza Side of Fairfield Marriott",
+                "city": "Belagavi",
+                "state": "Karnataka",
+                "postcode": "591113",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.521434,
+                    15.901615
+                ]
+            },
+            "properties": {
+                "station_name": "RR Mall Belagavi",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Reliance Retail Mall, Bauxite Road",
+                "city": "Belagavi",
+                "state": "Karnataka",
+                "postcode": "590010",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.671177,
+                    23.018114
+                ]
+            },
+            "properties": {
+                "station_name": "Sardar Patel Ring Road",
+                "status": "Operational",
+                "usage_type": "Public - Membership Required",
+                "operator": "(Unknown Operator)",
+                "address": "Sardar Patel Ring Road",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "postcode": "380001",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.515797,
+                    15.878287
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Ramdev",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "PB Road, Nehru Nagar",
+                "city": "Belagavi",
+                "state": "Karnataka ",
+                "postcode": "590001",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.528684,
+                    15.867345
+                ]
+            },
+            "properties": {
+                "station_name": "Pai Resorts",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Wheels Drive (IN)",
+                "address": "1044, opp. Fort lake, Azad Nagar",
+                "city": "Belagavi",
+                "state": "Karnataka",
+                "postcode": "590016",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.21505,
+                    16.14641
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Paradise",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Amboli Gadhinglaj Road",
+                "city": "Sulgaon",
+                "state": "Maharashtra ",
+                "postcode": "416505",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.51343,
+                    15.87496
+                ]
+            },
+            "properties": {
+                "station_name": "UK27 The Fern - An Ecotel Hotel, Belagavi",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "JIO BP Pulse (India)",
+                "address": "NH 748 Civil Hospital Road, Ayodhya Nagar",
+                "city": "Belagavi",
+                "state": "Karnataka ",
+                "postcode": "590019",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.57531,
+                    15.80585
+                ]
+            },
+            "properties": {
+                "station_name": "Shri Mahalingeshwar Petroleums",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH 48 Shaganamatti",
+                "city": "Belagavi",
+                "state": "Karnataka ",
+                "postcode": "590020",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.664928,
+                    23.067646
+                ]
+            },
+            "properties": {
+                "station_name": "Capital EV Charging Station (Kalupur)",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "2JF2+X5J, Kalupur Railway Station Rd, Laxmi Bazar, Kalupur",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "postcode": "380002",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.664809,
+                    23.067546
+                ]
+            },
+            "properties": {
+                "station_name": "Agora Mall Charging Station",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "JIO BP Pulse (India)",
+                "address": "Nr Tapovan Circle, SP Ring Road",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382424",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": null,
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.94282,
+                    15.512047
+                ]
+            },
+            "properties": {
+                "station_name": "OM EV Charging",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Bolt.Earth (IN)",
+                "address": "NH - 48 Service Road",
+                "city": "Mammigatti",
+                "state": "Karnataka ",
+                "postcode": "580011",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.90613,
+                    15.52849
+                ]
+            },
+            "properties": {
+                "station_name": "Shell Recharge Heggeri Dharwad",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Shell Recharge (IN)",
+                "address": "NH 48 Belur Road, Belur Industrial Area",
+                "city": "Belur",
+                "state": "Karnataka",
+                "postcode": "580011",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.683984,
+                    23.166428
+                ]
+            },
+            "properties": {
+                "station_name": "MobiLane Charging Station",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Business Owner at Location)",
+                "address": "Beside Fire Station, Gujarat International Finance Tec-City",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382355",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.49365,
+                    15.83662
+                ]
+            },
+            "properties": {
+                "station_name": "BPCL Goral Petroleum",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "Off Mandoli Road, Dwarka Nagar, Godse Nagar",
+                "city": "Belagavi",
+                "state": "Karnataka",
+                "postcode": "590006",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.06133,
+                    15.40827
+                ]
+            },
+            "properties": {
+                "station_name": "MG Motor Bellad",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Opp NGEF, PB Rd, Rayapur",
+                "city": "Hubballi",
+                "state": "Karnataka",
+                "postcode": "580025",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.12727,
+                    15.3593
+                ]
+            },
+            "properties": {
+                "station_name": "Shreya Stellar Mall",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Bus Stop, JGCC, PB Rd, Jayanagar",
+                "city": "Hubballi",
+                "state": "Karnataka",
+                "postcode": "580021",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.573438,
+                    22.958987
+                ]
+            },
+            "properties": {
+                "station_name": "Shawadi Road",
+                "status": "Operational",
+                "usage_type": "Public - Membership Required",
+                "operator": "(Unknown Operator)",
+                "address": "Shawadi Road, Narolgam",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "postcode": "382405",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.49224,
+                    15.8188
+                ]
+            },
+            "properties": {
+                "station_name": "Manickbag Automobiles, Belagavi",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "No 691, Bemciel, industrial estate, Khanapur Road, next to Bemco",
+                "city": "Belagavi",
+                "state": "Karnataka ",
+                "postcode": "590008",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.78388,
+                    15.58799
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Gajaraj Palace",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Kulvali Cross, NH 48 Service Road",
+                "city": "Kittur",
+                "state": "Karnataka",
+                "postcode": "591115",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.08915,
+                    15.35533
+                ]
+            },
+            "properties": {
+                "station_name": "Salimath Engineers",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Salimath Building, No 18 & 19, Padma Housing Society, Airport Road",
+                "city": "Hubballi",
+                "state": "Karnataka",
+                "postcode": "580030",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.48541,
+                    15.80545
+                ]
+            },
+            "properties": {
+                "station_name": "Miraculum Kia",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "317/6, Khanapur Road Circle, near Peeranwadi",
+                "city": "Belagavi",
+                "state": "Karnataka",
+                "postcode": "590008",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.667364,
+                    23.231491
+                ]
+            },
+            "properties": {
+                "station_name": "Ather Grid Charging Station",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "Basement of INOX theatre mall, Sector 21 Rd, Sector 21",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382021",
+                "country": "India",
+                "connection_type": "Type M",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.626749,
+                    23.175841
+                ]
+            },
+            "properties": {
+                "station_name": "ChargePod Charging Station",
+                "status": "Not Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "5JGH+9H3, Urjanagar 1, Kudasan",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382421",
+                "country": "India",
+                "connection_type": "CHAdeMO",
+                "connection_level": null,
+                "connection_current_type": null,
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.70008,
+                    23.338355
+                ]
+            },
+            "properties": {
+                "station_name": "Anantam Clubs & Resorts",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Mahudi, Highway, Pindarda Village",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382610",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.46012,
+                    14.62398
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Anand Vihar",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH50, Hulikere",
+                "city": "Hulikere",
+                "state": "Karnataka",
+                "postcode": "583218",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.56854,
+                    23.075554
+                ]
+            },
+            "properties": {
+                "station_name": "Taj Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Nr Taj Lane",
+                "city": "Ahmedabad ",
+                "state": "Gujarat ",
+                "postcode": "380058",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.612246,
+                    23.178343
+                ]
+            },
+            "properties": {
+                "station_name": "Sargasan Cross Rd",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "5JH9+9GW",
+                "city": "Gandhinagar",
+                "state": "Gujarat",
+                "postcode": "382421",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.14759,
+                    15.27878
+                ]
+            },
+            "properties": {
+                "station_name": "Sai Ganesh Restaurant",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH 48 Service Road, Adargunchi ",
+                "city": "Hubli",
+                "state": "Karnataka",
+                "postcode": "580028",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.14345,
+                    15.240056
+                ]
+            },
+            "properties": {
+                "station_name": "Shell Recharge Pale",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Shell Recharge (IN)",
+                "address": "Bengaluru - Mumbai Highway Chabbi Taluka",
+                "city": "Hubballi",
+                "state": "Karnataka",
+                "postcode": "581207",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.45893,
+                    23.023923
+                ]
+            },
+            "properties": {
+                "station_name": "GoElectrify-EV Charger ",
+                "status": "Operational",
+                "usage_type": "Public - Pay At Location",
+                "operator": "(Unknown Operator)",
+                "address": "J & D AUTO, opp. SHREE LAXMI NARAYAN RESIDENCY, nr. Aarohi Club Road, Plots, South Bopal",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "postcode": "380058",
+                "country": "India",
+                "connection_type": "Type 2 (Tethered Connector) ",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": "AC (Single-Phase)",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.14055,
+                    15.16839
+                ]
+            },
+            "properties": {
+                "station_name": "Ganesh Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Zeon Charging",
+                "address": "Tirumalakoppa village N h 4 Tadas, cross, Hubli - Dharwad Hwy, ",
+                "city": "Tirumalakoppa",
+                "state": "Karnataka",
+                "postcode": "581207",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.623868,
+                    25.779833
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Tiranga",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "QJHF+GJ",
+                "city": "Roopaheli",
+                "state": "Rajasthan ",
+                "postcode": "311021",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.043575,
+                    16.002657
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Madhuban EV Charging Station ",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Vijaya Power (IN)",
+                "address": "Amboli ",
+                "city": "Amboli",
+                "state": "Maharashtra ",
+                "postcode": "416510",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.043493,
+                    16.002622
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Madhuban EV Charging Station ",
+                "status": "Operational",
+                "usage_type": "Public - Membership Required",
+                "operator": "(Unknown Operator)",
+                "address": "Amboli",
+                "city": "Amboli",
+                "state": "Maharashtra ",
+                "postcode": "416510",
+                "country": "India",
+                "connection_type": "Unknown",
+                "connection_level": "Level 2 : Medium (Over 2kW)",
+                "connection_current_type": null,
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.358151,
+                    22.996682
+                ]
+            },
+            "properties": {
+                "station_name": "Fortum Charge & Drive Charging Station",
+                "status": "Operational",
+                "usage_type": "Private - For Staff, Visitors or Customers",
+                "operator": "(Unknown Operator)",
+                "address": "701, Sarkhej - Gandhinagar Highway, Makarba",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "postcode": "380051",
+                "country": "India",
+                "connection_type": "CHAdeMO",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.25032,
+                    14.94519
+                ]
+            },
+            "properties": {
+                "station_name": "Hotel Panchavati",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "NH 48 Shiggaon Taluk",
+                "city": "Munavalli",
+                "state": "Karnataka",
+                "postcode": "581202",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.46271,
+                    15.43437
+                ]
+            },
+            "properties": {
+                "station_name": "CAFE PARADISE FAMILY RESTAURANT",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "NH - 748, Akrali",
+                "city": "Ramnagar",
+                "state": "Karnataka",
+                "postcode": "581453",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.394159,
+                    23.428885
+                ]
+            },
+            "properties": {
+                "station_name": "Laxura Restaurant, Banquet & Rooms",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Chargezone (India)",
+                "address": "Mehsana Highway, Opposite Pallavi Guest House, Ahmedabad",
+                "city": "Mandali",
+                "state": "Gujarat",
+                "postcode": "382732",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.39375,
+                    23.446523
+                ]
+            },
+            "properties": {
+                "station_name": "Tectonic Power Charging Station",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": null,
+                "address": "C9WV+CG, Celebrations Chowk near Nirma Plant Mandali",
+                "city": "Baliyasan",
+                "state": "Gujarat",
+                "postcode": "382732",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.04431,
+                    14.97927
+                ]
+            },
+            "properties": {
+                "station_name": "TSS Super Market, Mundagod",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "Kumta - Hubli Road",
+                "city": "Mundgod",
+                "state": "Karnataka",
+                "postcode": "581349",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.56992,
+                    14.65406
+                ]
+            },
+            "properties": {
+                "station_name": "Deol Punjabi Hotel & Lodge",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Wheels Drive (IN)",
+                "address": "NH 48 Madras Bombay Trunk Road",
+                "city": "Kunabev",
+                "state": "Karnataka",
+                "postcode": "581115",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.72506,
+                    14.55971
+                ]
+            },
+            "properties": {
+                "station_name": "Nisarga Family Restaurant",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Statiq (IN)",
+                "address": "SH 76, Chalageri",
+                "city": "Chalageri",
+                "state": "Karnataka",
+                "postcode": "581145",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.69027,
+                    14.57297
+                ]
+            },
+            "properties": {
+                "station_name": "Jio BP Kamadod",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "(Unknown Operator)",
+                "address": "Survey No 86/9 Ranebennur, Nh 4, Near Davangere Truck Stop",
+                "city": "Kamadod",
+                "state": "Karnataka",
+                "postcode": "581145",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.75962,
+                    14.53811
+                ]
+            },
+            "properties": {
+                "station_name": "Shiva Hotel",
+                "status": "Operational",
+                "usage_type": "Public",
+                "operator": "Tata Power",
+                "address": "N H 4, near Harihar, Makanur",
+                "city": "Harihar",
+                "state": "Karnataka",
+                "postcode": "581123",
+                "country": "India",
+                "connection_type": "CCS (Type 2)",
+                "connection_level": "Level 3:  High (Over 40kW)",
+                "connection_current_type": "DC",
+                "connection_quantity": 2
+            }
+        }
+    ]
+}

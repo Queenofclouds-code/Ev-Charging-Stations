@@ -1,0 +1,71 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EV Charging Station Finder</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" /> 
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <style>
+        #message { color: red; margin-top: 10px; display: none; }
+        .filter-section { margin-bottom: 15px; }
+        .filter-section label { display: inline-block; width: 120px; }
+        .filter-section input[type="text"] { width: 150px; margin-right: 10px; }
+        .filter-section button { vertical-align: middle; }
+        #loading { display: none; margin-top: 10px; font-size: 14px; color: #555; }
+        #loading::before {
+            content: '';
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            border: 2px solid #007bff;
+            border-top: 2px solid transparent;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-right: 5px;
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="sidebar">
+            <h2>EV Charging Station Finder</h2>
+            <h3>Find Stations</h3>
+            <button id="find-nearby">Find Nearby Stations</button>
+            <div id="nearby-controls">
+                <label for="radius">Search Radius (km):</label>
+                <input type="range" id="radius" min="1" max="50" value="10" oninput="this.nextElementSibling.value = this.value">
+                <output>10</output>
+            </div>
+            <div id="message"></div>
+            <div id="loading">Loading...</div>
+            <h3>Filter Results</h3>
+            <div class="filter-section">
+                <label for="city">Filter by City:</label>
+                <input type="text" id="city" placeholder="e.g., Mumbai">
+                <button id="find-by-city">Find by City</button>
+            </div>
+            <div class="filter-section">
+                <label for="state">Filter by State:</label>
+                <input type="text" id="state" placeholder="e.g., Maharashtra">
+                <button id="find-by-state">Find by State</button>
+            </div>
+            <button id="clear-route" style="display: none;" aria-label="Clear the displayed route">Clear Route</button>
+            <button id="reset-map" aria-label="Reset the map">Reset Map</button>
+            <button id="set-location" aria-label="Set starting location">Current Location</button>
+            <button id="toggle-heatmap" aria-label="Toggle heatmap view">Show Heatmap</button>
+            <button id="show-all-india" aria-label="Show all EV stations in India">Show All Ev Stations</button>
+            <button id="optimize-route" aria-label="Optimize route through selected stations">Optimize Route</button>
+        </div>
+        <button id="toggle-slider">></button> <!-- Slider button added here -->
+        <div id="map"></div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+    <script src="https://unpkg.com/@mapbox/polyline@1.1.1/src/polyline.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="{% static 'js/script.js' %}"></script>
+</body>
+</html>

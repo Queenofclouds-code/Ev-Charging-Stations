@@ -1,0 +1,13 @@
+         Ev charging stations data(csv,xmlx,xml)  
+		                    |
+	          QGIS(converts to geojson,)
+			                |
+		        Django(Create Project)
+		                    |
+          Database(storing geojson to postgresql)
+			                |
+			  RestFramework(Create Rest API)
+			                |
+			         Testing(API)
+					        |
+				Displaying data(leaflet)UI

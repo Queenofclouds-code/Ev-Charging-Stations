@@ -12,12 +12,18 @@ RUN apt-get update && apt-get install -y \
 # Set environment variables for GDAL
 ENV CPLUS_INCLUDE_PATH=/usr/include/gdal
 ENV C_INCLUDE_PATH=/usr/include/gdal
+ENV LD_LIBRARY_PATH=/usr/lib:/usr/local/lib
 
 # Set working directory
 WORKDIR /app
 
 # Copy requirements.txt and install dependencies
 COPY requirements.txt .
+
+# Install GDAL Python package explicitly
+RUN pip install --no-cache-dir GDAL==$(gdal-config --version) --global-option=build_ext --global-option="-I/usr/include/gdal"
+
+# Install remaining dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the project
@@ -26,5 +32,5 @@ COPY . .
 # Collect static files with verbose output for debugging
 RUN python manage.py collectstatic --noinput --verbosity 2
 
-# Start the app with Gunicorn (migrations will be run manually)
+# Start the app with Gunicorn
 CMD ["gunicorn", "EvCharging.wsgi:application", "--bind", "0.0.0.0:$PORT"]

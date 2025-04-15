@@ -23,11 +23,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the project
 COPY . .
 
-# Collect static files
-RUN python manage.py collectstatic --noinput
+# Collect static files with verbose output for debugging
+RUN python manage.py collectstatic --noinput --verbosity 2
 
-# Run migrations (optional, can be done manually later)
-RUN python manage.py migrate
-
-# Start the app with Gunicorn
+# Start the app with Gunicorn (migrations will be run manually)
 CMD ["gunicorn", "EvCharging.wsgi:application", "--bind", "0.0.0.0:$PORT"]

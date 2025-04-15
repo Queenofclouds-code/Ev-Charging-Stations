@@ -17,7 +17,7 @@ from decouple import config
 IS_BUILD = os.getenv('IS_BUILD', 'false').lower() == 'true'
 
 
-GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY', 'AIzaSyDdbwZGxx7yLI3xlVPv3Nds-Vwxwl2XUro')
+GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY', 'AIzaSyD4QDS09P6G1hpL8o3B_g16gmC2Mmdl5T4')
 
 GDAL_LIBRARY_PATH = r'C:\OSGeo4W\bin\gdal310.dll'
 GEOS_LIBRARY_PATH = r'C:\OSGeo4W\bin\geos_c.dll'

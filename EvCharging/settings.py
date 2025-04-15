@@ -125,6 +125,10 @@ DATABASES = {
         'PORT':'5432',
     }
 }
+import dj_database_url
+
+DATABASES['default'] = dj_database_url.config(default=config('DATABASE_URL'))
+DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 
 
 # Password validation
@@ -161,13 +165,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [BASE_DIR / 'static']
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 GOOGLE_MAPS_API_KEY = config('GOOGLE_MAPS_API_KEY')
 
-import django_heroku
-django_heroku.settings(locals())
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field

@@ -14,6 +14,7 @@ from pathlib import Path
 import os
 from decouple import config
 
+IS_BUILD = os.getenv('IS_BUILD', 'false').lower() == 'true'
 
 
 GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY', 'AIzaSyDdbwZGxx7yLI3xlVPv3Nds-Vwxwl2XUro')
@@ -54,13 +55,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.gis',
     'rest_framework',
     'django_filters',
     'Stations_api',
     
 
 ]
+
+if not IS_BUILD:
+    INSTALLED_APPS.append('django.contrib.gis')
 
 
 REST_FRAMEWORK = {

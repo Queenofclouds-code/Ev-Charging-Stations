@@ -84,7 +84,7 @@ MIDDLEWARE = [
 
 STATIC_URL = '/static/' 
 STATICFILES_DIRS = [
-    BASE_DIR / "frontend/static",  
+    BASE_DIR / "/static",  
 ]
 STATIC_ROOT = BASE_DIR / "staticfiles"  
 
@@ -115,19 +115,12 @@ WSGI_APPLICATION = 'EvCharging.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'Ev_charging',
-        'USER':'postgres',
-        'PASSWORD':'meghaj',
-        'HOST':'localhost',
-        'PORT':'5432',
-    }
-}
+
 import dj_database_url
 
-DATABASES['default'] = dj_database_url.config(default=config('DATABASE_URL'))
+DATABASES = {
+    'default': dj_database_url.config(default=config('DATABASE_URL', default='sqlite:////tmp/dummy.db'))
+}
 DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 
 

@@ -63,12 +63,6 @@ INSTALLED_APPS = [
 
 ]
 
-try:
-    import osgeo  # Check if GDAL is available
-    INSTALLED_APPS.append('django.contrib.gis')
-    GIS_ENABLED = True
-except ImportError:
-    GIS_ENABLED = False
 
 
 REST_FRAMEWORK = {

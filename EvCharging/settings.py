@@ -62,8 +62,12 @@ INSTALLED_APPS = [
 
 ]
 
-if not IS_BUILD:
+try:
+    import osgeo  # Check if GDAL is available
     INSTALLED_APPS.append('django.contrib.gis')
+    GIS_ENABLED = True
+except ImportError:
+    GIS_ENABLED = False
 
 
 REST_FRAMEWORK = {
@@ -124,7 +128,8 @@ import dj_database_url
 DATABASES = {
     'default': dj_database_url.config(default=config('DATABASE_URL', default='sqlite:////tmp/dummy.db'))
 }
-DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
+if GIS_ENABLED:
+    DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 
 
 # Password validation

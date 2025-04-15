@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.gis',
     'rest_framework',
     'django_filters',
     'Stations_api',
@@ -128,8 +129,7 @@ import dj_database_url
 DATABASES = {
     'default': dj_database_url.config(default=config('DATABASE_URL', default='sqlite:////tmp/dummy.db'))
 }
-if GIS_ENABLED:
-    DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
+DATABASES['default']['ENGINE'] = 'django.contrib.gis.db.backends.postgis'
 
 
 # Password validation
@@ -171,6 +171,8 @@ STATICFILES_DIRS = [BASE_DIR / 'static']
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 GOOGLE_MAPS_API_KEY = config('GOOGLE_MAPS_API_KEY')
+
+GIS_ENABLED = True
 
 
 # Default primary key field type

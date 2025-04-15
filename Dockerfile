@@ -1,5 +1,5 @@
 # Use official Python 3.10 image as the base
-FROM python:3.10.12
+FROM python:3.10.12-slim
 
 # Install GDAL system dependencies
 RUN apt-get update && apt-get install -y \

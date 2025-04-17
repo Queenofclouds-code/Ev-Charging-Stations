@@ -32,6 +32,7 @@ A web application to help users locate electric vehicle (EV) charging stations a
 ![UserInterface](UserInterface.png)
 ![Filteredbystate](Filteredbystate.png)
 ![Directions](Directions.png)
+![OptimisedRoute](OptimisedRoute.png)
 
 
 ## 📦 Installation

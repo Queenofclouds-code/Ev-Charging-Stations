@@ -27,8 +27,6 @@ A web application to help users locate electric vehicle (EV) charging stations a
 
 ## 📸 Screenshots
 
-_Add screenshots in a `screenshots/` folder and link them here like below:_
-
 ![Heatmap](heatmap.png)
 
 ## 📦 Installation
